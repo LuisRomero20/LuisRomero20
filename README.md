@@ -65,7 +65,7 @@ _Current focus_: Data Mesh, gobierno y observabilidad de jobs en entornos regula
 ## Contacto
 - 📧 **Email:** luis_jesusrc@hotmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/luisjesusromerocastro/  
-- 🌐 **Portafolio:** _(en construcción — enlazarás aquí cuando lo publiques)_
+- 🌐 **Portafolio:** https://luisromero20.github.io/mi-portafolio/
 
 ---
 
