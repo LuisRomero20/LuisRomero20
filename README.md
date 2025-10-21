@@ -21,7 +21,7 @@ _Current focus_: Data Mesh, gobierno y observabilidad de jobs en entornos regula
 
 **Renova SAC (Minería) — Ingeniero de Sistemas de TI (2023–2025)**  
 • Dashboards Power BI para inventarios y procesos.  
-• ETL con SQL/Excel/VBA; WSUS, backups y hardening.  
+• ETL con SQL/Excel/VBA, WSUS, backups y hardening.  
 • Soporte a operaciones en mina y continuidad de datos.
 
 **2M MICON — Desarrollador Web Jr (2023)**  
@@ -77,6 +77,3 @@ Oportunidades en **Data Engineering** / **Backend** (remoto o híbrido), y proye
 
 ![luisromero20's Stats](https://github-readme-stats.vercel.app/api?username=luisromero20&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisRomero20&theme=dracula)](https://git.io/streak-stats)
-
-![luisromero20's Stats](https://github-readme-stats.vercel.app/api?username=luisromero20&theme=dracula&show_icons=true&hide_border=true&count_private=true)
