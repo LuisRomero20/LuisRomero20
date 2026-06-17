@@ -1,79 +1,55 @@
 # Hey, I'm Luis! 👋
 
-Data & Backend Engineer
+**Data & Backend Engineer | Especialista en Confiabilidad y Automatización** 🚀
 
-**Lima, Perú · luis_jesusrc@hotmail.com · [LinkedIn](https://www.linkedin.com/in/luisjesusromerocastro/) · [GitHub](https://github.com/LuisRomero20)**
+Transformo procesos manuales y datos dispersos en arquitecturas automatizadas, confiables y listas para la toma de decisiones. Actualmente aseguro la continuidad operativa y gobernanza de datos en el sector bancario (Data Mesh, Spark/HDFS, Control-M).
 
-Ingeniero de Sistemas con énfasis en **ingeniería de datos** y **backend**. Diseño y opero pipelines confiables (Spark/HDFS), orquesto flujos en **Control-M** y habilito consumo analítico con foco en **calidad**, **costos** y **operación**.  
-_Current focus_: Data Mesh, gobierno y observabilidad de jobs en entornos regulados.
-
----
-
-## Rol actual
-**Ingeniero de Datos — Indra/Minsait (BBVA)**  
-- Orquestación y operación de procesos en **Control-M** con seguimiento en **Argos Live**.  
-- Ingestas y traspasos sobre **HDFS** bajo enfoque **Data Mesh**.  
-- Implementación de reglas de calidad y gobierno (**Hammurabi**).  
-- Gestión de incidentes, análisis de logs y soporte a SLAs.
-
-
-## Experiencia previa
-
-**Renova SAC (Minería) — Ingeniero de Sistemas de TI (2023–2025)**  
-• Dashboards Power BI para inventarios y procesos.  
-• ETL con SQL/Excel/VBA, WSUS, backups y hardening.  
-• Soporte a operaciones en mina y continuidad de datos.
-
-**2M MICON — Desarrollador Web Jr (2023)**  
-• Optimización de landing pages (SEO, rendimiento) y métricas con Google Analytics.
-
-
-## Competencias técnicas
-| Área | Tecnologías |
-|---|---|
-| **Lenguajes & Query** | Python, Scala, SQL |
-| **Procesamiento & Big Data** | Apache Spark, HDFS, Dataproc |
-| **Orquestación & Operación** | Control-M, Argos Live |
-| **Calidad & Gobierno** | Hammurabi, validaciones y lineage básico |
-| **BI & Analytics** | Power BI |
-| **Cloud** | GCP (Dataproc), AWS (Cloud Practitioner) |
-| **Colaboración & Dev** | Git, Bitbucket, SSH, Scrum/Agile |
-
-> También trabajo con documentación operativa, definición de SLAs/OLAs y tableros de seguimiento.
-
-
-## Proyectos/initiatives
-- **Pipeline Spark en Dataproc/HDFS** — ETL batch con particionamiento, logging y checkpoints; orquestado en **Control-M**.  
-- **Observabilidad de jobs** — Bitácora de ejecuciones (status, duración, reintentos, SLAs) con export a Power BI.  
-- **Reporting operativo (Power BI)** — Modelo semántico y KPIs de inventarios/operación (mock data público).
-
-
-## Publicación
-- **Machine Learning as a Tool to Combat Ransomware in Resource-Constrained Business Environment** (IJACSA, 2024).  
-  https://thesai.org/Publications/ViewPaper?Volume=15&Issue=12&Code=ijacsa&SerialNo=53
+📍 Lima, Perú | ✉️ [luis_jesusrc@hotmail.com](mailto:luis_jesusrc@hotmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/luisjesusromerocastro/)
 
 ---
 
-## Certificaciones
-- **AWS Certified Cloud Practitioner (2025)**  
-- Coursera — **Learn SQL Basics for Data Science** (UC Davis, 2024)  
-- Coursera — **Distributed Computing with Spark SQL** (UC Davis, 2024)  
-- **Python for Everybody** (University of Michigan, 2022)
+### 🛠️ Tech Stack & Herramientas
+
+**Lenguajes & Query:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Data Engineering & Big Data:**
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**BI, Cloud & Operaciones:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Contacto
-- 📧 **Email:** luis_jesusrc@hotmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/luisjesusromerocastro/  
-- 🌐 **Portafolio:** https://luisromero20.github.io/mi-portafolio/
+### 🚀 Portafolio Destacado (Freelance & Open Source)
+
+*   📊 **[End-to-End Sales ETL Pipeline](https://github.com/LuisRomero20/end-to-end-sales-etl-pipeline):** Arquitectura completa de extracción, limpieza de datos sucios con Pandas, carga en SQLite y modelado semántico en un dashboard ejecutivo de Power BI. Diseñado para automatizar flujos en PYMES.
 
 ---
 
-### Busco
-Oportunidades en **Data Engineering** / **Backend** (remoto o híbrido), y proyectos freelance donde la **confiabilidad operativa** y la **calidad de datos** sean clave.
+### 💼 Experiencia Core
 
+*   **Ingeniero de Datos y Reliability @ Indra/Minsait (BBVA):** Orquestación de pipelines batch en Control-M, ingestas bajo enfoque Data Mesh en HDFS y aseguramiento de calidad de datos (DQA) logrando una tasa de observaciones técnica inferior al 4%.
+*   **Ingeniero de Sistemas TI @ Renova SAC:** Automatización de flujos con Python/VBA y ecosistemas analíticos interactivos en Power BI para control de inventarios mineros.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisRomero20&theme=dracula)](https://git.io/streak-stats)
+---
 
-![luisromero20's Stats](https://github-readme-stats.vercel.app/api?username=luisromero20&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+### 🎓 Certificaciones & Publicaciones
+*   ☁️ **AWS Certified Cloud Practitioner** (2025)
+*   📜 **Publicación:** *Machine Learning as a Tool to Combat Ransomware...* (IJACSA, 2024).
 
+<br>
+
+<div align="center">
+  <i>¿Buscas optimizar la calidad de tus datos o automatizar pipelines críticos? Hablemos.</i><br><br>
+  <a href="mailto:luis_jesusrc@hotmail.com">
+    <img src="https://img.shields.io/badge/Contrátame_para_Freelance-0A66C2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contacto"/>
+  </a>
+</div>
