@@ -59,7 +59,7 @@ Transformo procesos manuales y datos dispersos en arquitecturas automatizadas, c
 ### 🎓 Certificaciones & Publicaciones
 
 *   ☁️ **AWS Certified Cloud Practitioner** (2025)
-*   📜 **Publicación:** *Machine Learning as a Tool to Combat Ransomware...* (IJACSA, 2024)
+*   📜 **Publicación:** *Machine Learning as a Tool to Combat Ransomware...* (IJACSA, 2024) - https://lnkd.in/eC4hHFuP 
 *   🏆 Especialización en Data Engineering y Big Data
 
 ---
