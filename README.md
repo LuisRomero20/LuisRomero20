@@ -2,7 +2,7 @@
 
 **Data & Backend Engineer | Especialista en Confiabilidad y Automatización** 🚀
 
-Transformo procesos manuales y datos dispersos en arquitecturas automatizadas, confiables y listas para la toma de decisiones. Actualmente aseguro la continuidad operativa y gobernanza de datos en entornos empresariales críticos.
+Transformo procesos manuales y datos dispersos en arquitecturas automatizadas, confiables y listas para la toma de decisiones. Actualmente aseguro la continuidad operativa y gobernanza de datos en entornos empresariales bancarios.
 
 📍 Lima, Perú | ✉️ [luis_jesusrc@hotmail.com](mailto:luis_jesusrc@hotmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/luisjesusromerocastro/)
 
