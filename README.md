@@ -2,7 +2,7 @@
 
 **Data & Backend Engineer | Especialista en Confiabilidad y Automatización** 🚀
 
-Transformo procesos manuales y datos dispersos en arquitecturas automatizadas, confiables y listas para la toma de decisiones. Actualmente aseguro la continuidad operativa y gobernanza de datos en el sector bancario (Data Mesh, Spark/HDFS, Control-M).
+Transformo procesos manuales y datos dispersos en arquitecturas automatizadas, confiables y listas para la toma de decisiones. Actualmente aseguro la continuidad operativa y gobernanza de datos en entornos empresariales críticos.
 
 📍 Lima, Perú | ✉️ [luis_jesusrc@hotmail.com](mailto:luis_jesusrc@hotmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/luisjesusromerocastro/)
 
@@ -13,6 +13,7 @@ Transformo procesos manuales y datos dispersos en arquitecturas automatizadas, c
 **Lenguajes & Query:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -21,35 +22,71 @@ Transformo procesos manuales y datos dispersos en arquitecturas automatizadas, c
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**BI, Cloud & Operaciones:**
+**BI, Cloud & DevOps:**
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Portafolio Destacado (Freelance & Open Source)
+### 🚀 Portafolio de Proyectos
 
-*   📊 **[End-to-End Sales ETL Pipeline](https://github.com/LuisRomero20/end-to-end-sales-etl-pipeline):** Arquitectura completa de extracción, limpieza de datos sucios con Pandas, carga en SQLite y modelado semántico en un dashboard ejecutivo de Power BI. Diseñado para automatizar flujos en PYMES.
+| Proyecto | Descripción | Lenguajes |
+|----------|-------------|-----------|
+| 🏭 **[end-to-end-sales-etl-pipeline](https://github.com/LuisRomero20/end-to-end-sales-etl-pipeline)** | Pipeline ETL automatizado con limpieza de datos, transformaciones y Dashboard Power BI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 💰 **[Finanzas](https://github.com/LuisRomero20/Finanzas)** | Aplicación de gestión financiera y análisis de datos económicos | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| 🤖 **[skynet-quant-platform](https://github.com/LuisRomero20/skynet-quant-platform)** | Plataforma de trading cuantitativo con análisis predictivo | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🎨 **[mi-portafolio](https://github.com/LuisRomero20/mi-portafolio)** | Portafolio personal interactivo con GitHub Pages | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
 ### 💼 Experiencia Core
 
-*   **Ingeniero de Datos y Reliability @ Indra/Minsait (BBVA):** Orquestación de pipelines batch en Control-M, ingestas bajo enfoque Data Mesh en HDFS y aseguramiento de calidad de datos (DQA) logrando una tasa de observaciones técnica inferior al 4%.
-*   **Ingeniero de Sistemas TI @ Renova SAC:** Automatización de flujos con Python/VBA y ecosistemas analíticos interactivos en Power BI para control de inventarios mineros.
+*   **Ingeniero de Datos y Reliability @ Indra/Minsait (BBVA):** 
+    - Orquestación de pipelines batch en Control-M
+    - Ingestas bajo enfoque Data Mesh en HDFS
+    - Aseguramiento de calidad de datos (DQA)
+    - Optimización de procesos ETL
+
+*   **Ingeniero de Sistemas TI @ Renova SAC:** 
+    - Automatización de flujos con Python/VBA
+    - Desarrollo de ecosistemas analíticos interactivos en Power BI
+    - Control de inventarios mineros
+    - Gestión de bases de datos y reporting
 
 ---
 
 ### 🎓 Certificaciones & Publicaciones
-*   ☁️ **AWS Certified Cloud Practitioner** (2025)
-*   📜 **Publicación:** *Machine Learning as a Tool to Combat Ransomware...* (IJACSA, 2024).
 
-<br>
+*   ☁️ **AWS Certified Cloud Practitioner** (2025)
+*   📜 **Publicación:** *Machine Learning as a Tool to Combat Ransomware...* (IJACSA, 2024)
+*   🏆 Especialización en Data Engineering y Big Data
+
+---
+
+### 📊 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisRomero20&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRomero20&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### 🤝 Colaboraciones & Contacto
+
+¿Buscas optimizar la calidad de tus datos, automatizar pipelines críticos o implementar soluciones de ingeniería de confiabilidad? 
 
 <div align="center">
-  <i>¿Buscas optimizar la calidad de tus datos o automatizar pipelines críticos? Hablemos.</i><br><br>
   <a href="mailto:luis_jesusrc@hotmail.com">
     <img src="https://img.shields.io/badge/Contrátame_para_Freelance-0A66C2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contacto"/>
   </a>
+  <a href="https://www.linkedin.com/in/luisjesusromerocastro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>Convirtiendo datos en decisiones inteligentes 📊 | Automatizando procesos críticos ⚙️ | Construyendo sistemas confiables 🛡️</i>
 </div>
