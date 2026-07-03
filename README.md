@@ -281,13 +281,7 @@ Propuesta de modelo de ciberseguridad basado en Machine Learning para detectar y
 
 ## 📊 GitHub Analytics & Performance
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuisRomero20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=8b949e">
-</p>
 
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRomero20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e">
-</p>
 
 <p align="center">
   <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LuisRomero20&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff">
