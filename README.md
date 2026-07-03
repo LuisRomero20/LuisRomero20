@@ -22,8 +22,9 @@
 
 ## 🎯 Perfil Profesional
 
-**Ingeniero de Datos especializado en Data Engineering y Big Data** con más de **3 años de experiencia en ecosistemas corporativos y financieros regulados**. Sólida formación académica acreditada internacionalmente por **ABET** y experiencia práctica en:
+**Ingeniero de Datos especializado en Data Engineering y Big Data** con más de **3 años de experiencia en ecosistemas corporativos y financieros regulados**. Sólida formación académica acreditada internacionalmente (ABET) y certificaciones en cloud architecture.
 
+**Expertise:**
 - 🔄 **Automatización de procesos ETL/ELT** en plataformas distribuidas (Spark, Dataproc)
 - 🏛️ **Gobernanza y Calidad de Datos** en entornos bancarios complejos
 - 📊 **Diseño de Data Lakes y Lakehouses** con arquitecturas escalables
@@ -192,19 +193,19 @@ Mi enfoque está en diseñar **soluciones de datos robustas, gobernadas y alinea
 ## 📊 Competencias Clave
 
 ### **Data Engineering & Big Data**
-✅ ETL/ELT Architecture | ✅ Data Ingestion Pipelines | ✅ Data Lake & Lakehouse Design | ✅ Spark SQL | ✅ Batch Processing | ✅ Data Workflows | ✅ Source-to-Target Mapping | ✅ Data Mesh Concepts
+✅ ETL/ELT Architecture | ✅ Data Ingestion Pipelines | ✅ Data Lake & Lakehouse Design | ✅ Spark SQL | ✅ Batch Processing | ✅ Data Workflows | ✅ Source-to-Target Mapping | ✅ Data Modeling
 
 ### **Data Governance & Quality**
-✅ Data Modeling | ✅ DQA (Data Quality Assurance) | ✅ Data Governance | ✅ Metadata Management | ✅ Data Catalog | ✅ Business Glossary | ✅ Data Lineage | ✅ Trusted Data Source (TDS) | ✅ Raw/Master Layers | ✅ Source Certification
+✅ Data Modeling | ✅ DQA (Data Quality Assurance) | ✅ Data Governance | ✅ Metadata Management | ✅ Data Catalog | ✅ Business Glossary | ✅ Data Lineage | ✅ Trusted Data Source (TDS)
 
 ### **DataOps & Reliability**
-✅ Batch Monitoring | ✅ Incident Triage & RCA | ✅ Production Support | ✅ Job Reprocessing | ✅ SLA/ANS Tracking | ✅ Observability | ✅ Runbooks | ✅ Process Reliability | ✅ Runtime Analysis
+✅ Batch Monitoring | ✅ Incident Triage & RCA | ✅ Production Support | ✅ Job Reprocessing | ✅ SLA/ANS Tracking | ✅ Observability | ✅ Runbooks | ✅ Process Reliability | ✅ Runtime Performance
 
 ### **Cloud & DevOps**
 ✅ AWS Cloud | ✅ Git/Bitbucket Workflows | ✅ CI/CD Fundamentals | ✅ Version Control | ✅ Deployment Automation | ✅ Infrastructure Concepts
 
 ### **Business & Analytics**
-✅ Financial Domain Knowledge | ✅ Mining Operations | ✅ Dashboard Design | ✅ KPI Tracking | ✅ Business Requirements Analysis | ✅ Cross-functional Collaboration | ✅ ITIL Fundamentals | ✅ Agile/Scrum
+✅ Financial Domain Knowledge | ✅ Mining Operations | ✅ Dashboard Design | ✅ KPI Tracking | ✅ Business Requirements Analysis | ✅ Cross-functional Collaboration | ✅ ITIL Fundamentals
 
 ---
 
@@ -213,7 +214,7 @@ Mi enfoque está en diseñar **soluciones de datos robustas, gobernadas y alinea
 ### **"Machine Learning as a Tool to Combat Ransomware in Resource-Constrained Business Environment"**
 📖 **International Journal of Advanced Computer Science and Applications (IJACSA)** | Diciembre 2024
 
-Propuesta de modelo de ciberseguridad basado en Machine Learning para detectar y mitigar ataques de ransomware en microempresas. El sistema identifica patrones de comportamiento malicioso, alerta preventivamente e implementa medidas de mitigación automática.
+Propuesta de modelo de ciberseguridad basado en Machine Learning para detectar y mitigar ataques de ransomware en microempresas. El sistema identifica patrones de comportamiento malicioso, alertando en tiempo real.
 
 📄 [Leer artículo completo](https://thesai.org/Publications/ViewPaper?Volume=15&Issue=9&Code=ijacsa&SerialNo=110)
 
@@ -278,11 +279,23 @@ Propuesta de modelo de ciberseguridad basado en Machine Learning para detectar y
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics & Performance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisRomero20&show_icons=true&theme=dark&hide_border=true)
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuisRomero20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=8b949e">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRomero20&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRomero20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e">
+</p>
+
+<p align="center">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=LuisRomero20&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff">
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisRomero20&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&currStreakLabel=58a6ff">
+</p>
 
 ---
 
