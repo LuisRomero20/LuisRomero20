@@ -16,7 +16,7 @@
   </a>
 </p>
 
-📍 **Lima, Perú** | 📞 +51 907 362 779 | 📧 luis_jesusrc@hotmail.com
+📍 **Lima, Perú** | 📧 luis_jesusrc@hotmail.com
 
 ---
 
@@ -216,7 +216,7 @@ Mi enfoque está en diseñar **soluciones de datos robustas, gobernadas y alinea
 
 Propuesta de modelo de ciberseguridad basado en Machine Learning para detectar y mitigar ataques de ransomware en microempresas. El sistema identifica patrones de comportamiento malicioso, alertando en tiempo real.
 
-📄 [Leer artículo completo](https://thesai.org/Publications/ViewPaper?Volume=15&Issue=9&Code=ijacsa&SerialNo=110)
+📄 [Leer artículo completo](https://lnkd.in/eC4hHFuP )
 
 ---
 
