@@ -233,7 +233,7 @@ International Journal of Advanced Computer Science and Applications (IJACSA) | D
 | Idioma | Nivel |
 |--------|-------|
 | 🇵🇪 Español | Nativo |
-| 🇺🇸 Inglés | A1-A2 (TOEFL ITP) |
+| 🇺🇸 Inglés | B2 (TOEFL ITP) |
 
 ---
 
